@@ -1,0 +1,163 @@
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.conteiner{
+  background-image: url(background.jpg);
+  background-size: contain;
+  height: 1000px;
+  width: 1500px;
+  text-align: center;
+}
+
+.sfondonero{
+  width: 60%;
+  height: 65%;
+  background-color:rgba(0, 0, 0, 0.5);
+  margin-top: 30px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 3%;
+}
+
+
+#logo{
+  width: 200px;
+  padding-top: 70px;
+}
+
+.TestoHeader{
+  color: rgba(0, 255, 0, 1);
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+.nav{
+  width: 85%;
+  background-color: rgba(0, 255, 0, 1);
+  margin: auto;
+  height: 40px;
+  padding-top: 10px;
+
+}
+
+section{
+  width: 85%;
+  margin: auto;
+  text-align: left;
+  color: white;
+  padding: 0px;
+}
+
+
+/* Riga 1 */
+.block1{
+  padding-top: 10px;
+}
+
+.testorow1{
+  display: inline-block;
+}
+
+.inputrow1{
+  display: inline-block;
+
+}
+
+.testorow1a{
+  display: inline-block;
+}
+
+.testorow1b{
+margin-bottom: 5px;
+margin-top: 5px;
+font-size: 15px;
+}
+
+.testorow1c{
+  margin-top: 5px;
+  font-size: 15px;
+}
+
+.barrarow1{
+  width: 30%;
+  height: 20px;
+  background-color: orange;
+  border-radius: 5px;
+  margin-top: 0px;
+}
+
+/* Riga2 */
+.block2{
+  padding-top: 30px;
+}
+
+.testorow2{
+ display: inline-block;
+}
+
+.inputrow2{
+  display: inline-block;
+
+}
+
+.testorow2a{
+  display: inline-block;
+}
+
+.testorow2b{
+margin-bottom: 5px;
+margin-top: 5px;
+font-size: 15px;
+}
+
+.testorow2c{
+  margin-top: 5px;
+  font-size: 15px;
+}
+
+.barrarow2{
+  width: 60%;
+  height: 20px;
+  background-color: rgba(0, 255, 0, 1);
+  border-radius: 5px;
+  margin-top: 0px;
+}
+
+/* Riga 3 */
+
+.block3{
+  padding-top: 30px;
+}
+
+.testorow3{
+ display: inline-block;
+}
+
+.inputrow3{
+  display: inline-block;
+}
+
+.testorow3a{
+  display: inline-block;
+}
+
+.testorow3b{
+margin-bottom: 5px;
+margin-top: 5px;
+font-size: 15px;
+}
+
+.testorow3c{
+  margin-top: 5px;
+  font-size: 15px;
+}
+
+.barrarow3{
+  width: 10%;
+  height: 20px;
+  background-color: red;
+  border-radius: 5px;
+  margin-top: 0px;
+}
